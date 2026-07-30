@@ -8,6 +8,8 @@ import negative_icon from "../assets/negative.png"
 import review_icon from "../assets/reviewbutton.png"
 import Header from '../Header/Header';
 
+
+
 const Dealer = () => {
 
 
